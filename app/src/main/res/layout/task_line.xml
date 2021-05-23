@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="10"
+    android:padding="7dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:padding="1.5dp"
+        android:id="@+id/imageViewRemove"
+        android:layout_weight="0.5"
+        android:layout_width="15dp"
+        android:layout_height="30dp"
+        android:src="@drawable/remove" />
+
+    <TextView
+        android:padding="1.5dp"
+        android:id="@+id/textViewName"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="9"
+        android:textColor="#505050"
+        android:textSize="22sp"
+        android:text="Your Task"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+
+    <ImageView
+        android:padding="1.5dp"
+        android:id="@+id/imageViewEdit"
+        android:layout_weight="0.5"
+        android:layout_width="15dp"
+        android:layout_height="30dp"
+        android:src="@drawable/edit" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DumbbellsApp</string>
+    <string name="save_date_event">Save Date Event</string>
+    <string name="enter_event">Enter event</string>
+    <string name="to_do_list">To-do list</string>
+    <string name="Tick_it">Tick_it</string>
+    <string name="Tickit">Tick it</string>
+    <string name="reminder">Reminder</string>
+</resources>
